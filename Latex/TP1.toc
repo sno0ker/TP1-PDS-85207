@@ -1,0 +1,18 @@
+\babel@toc {portuguese}{}
+\contentsline {section}{\numberline {1}Introdução}{2}{section.1}%
+\contentsline {section}{\numberline {2}Conceitos teóricos}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Amostragem}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Decimação}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Aliasing}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Filtro Elíptico}{6}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Código Matlab}{7}{section.3}%
+\contentsline {section}{\numberline {4}Testes}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}N=2}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}N=3}{12}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}N=4}{14}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}N=5}{16}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}N=6}{18}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}N=7}{20}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}N=8}{22}{subsection.4.7}%
+\contentsline {section}{\numberline {5}Conclusão}{24}{section.5}%
+\contentsline {section}{\numberline {6}Repositório online}{24}{section.6}%
